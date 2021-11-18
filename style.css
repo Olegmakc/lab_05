@@ -1,0 +1,17 @@
+body{
+    background: #FBE6D5
+}
+#carouselExampleIndicators{
+    margin-bottom: 30px;
+}
+
+.form_title{
+    text-align: center;
+}
+
+.navbar{
+    margin-bottom: 30px;
+}
+.row{
+    margin-bottom: 30px;
+}
